@@ -1,5 +1,3 @@
-// CS 153 PROGRAM ASSIGNMENT #1
-//
 // Quadratic Formula
 //
 // 9/8/18
